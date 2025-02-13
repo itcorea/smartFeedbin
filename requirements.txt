@@ -1,0 +1,13 @@
+streamlit
+pandas
+sqlalchemy
+numpy
+math
+io
+modules
+sqlalchemy.exc
+os
+plotly.graph_objects
+dateutil.relativedelta
+
+
